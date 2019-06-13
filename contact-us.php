@@ -2,7 +2,6 @@
 /*
  * @author: Bella Ozdamirova
  * @date: 02/06/2019
- * Contact form mail() type
  */
 include "header.php";
 ?>

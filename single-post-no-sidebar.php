@@ -17,7 +17,8 @@ include "menu.php";
                     <h1>Etudes</h1>
 
                     <h3>Développeuse d'application - PHP / Symfony</h3>
-                    <p><img src="https://img.icons8.com/ios/17/000000/calendar-filled.png"> 10/12/2018 - 10/05/2019. OpenClassrooms - Paris 10e</p>
+                    <p><img src="https://img.icons8.com/ios/17/000000/calendar-filled.png"> 10/12/2018 - 10/05/2019.
+                        OpenClassrooms - Paris 10e</p>
 
                     <h4>Compétences acquises :</h4>
 
@@ -58,10 +59,14 @@ include "menu.php";
 
                         <div class="col-sm-1 col-xs-2"><img src="https://img.icons8.com/color/48/000000/php.png"></div>
                         <div class="col-sm-1 col-xs-2"><img src="https://img.icons8.com/color/48/000000/sql.png"></div>
-                        <div class="col-sm-1 col-xs-2"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"></div>
-                        <div class="col-sm-1 col-xs-2"><img src="https://img.icons8.com/color/48/000000/wordpress.png"></div>
-                        <div class="col-sm-1 col-xs-2"><img src="http://img.icons8.com/color/48/000000/symfony.png"></div>
-                        <div class="col-sm-1 col-xs-2"><img src="https://img.icons8.com/color/48/000000/html-5.png"></div>
+                        <div class="col-sm-1 col-xs-2"><img src="https://img.icons8.com/color/48/000000/bootstrap.png">
+                        </div>
+                        <div class="col-sm-1 col-xs-2"><img src="https://img.icons8.com/color/48/000000/wordpress.png">
+                        </div>
+                        <div class="col-sm-1 col-xs-2"><img src="http://img.icons8.com/color/48/000000/symfony.png">
+                        </div>
+                        <div class="col-sm-1 col-xs-2"><img src="https://img.icons8.com/color/48/000000/html-5.png">
+                        </div>
                         <div class="col-sm-1 col-xs-2"><img src="https://img.icons8.com/office/50/000000/css.png"></div>
                         <div class="col-sm-1 col-xs-2"><img src="https://img.icons8.com/color/48/000000/git.png"></div>
 
@@ -110,29 +115,30 @@ include "menu.php";
                                 site
                                 avec WordPress.</a></p>
                         <p><img src="https://img.icons8.com/ios-glyphs/17/000000/certificate.png"> <a
-                                    href="assets/images/certificat/2053255380.pdf" target="_blank">Parcours intégrateur Web.</a></p>
+                                    href="assets/images/certificat/2053255380.pdf" target="_blank">Parcours intégrateur
+                                Web.</a></p>
                     </div>
                 </div>
-                    <div class="mb90 clearfix"></div>
+                <div class="mb90 clearfix"></div>
 
 
-                    <div class="col-sm-3 col-sm-offset-3">
+                <div class="col-sm-3 col-sm-offset-3">
 
-                        <h1>Langues</h1>
+                    <h1>Langues</h1>
 
-                        <p><img src="https://img.icons8.com/material-sharp/20/000000/language.png"> Français - Courant.
-                        </p>
-                        <p><img src="https://img.icons8.com/material-sharp/20/000000/language.png"> Anglais -
-                            Intermédiaire.
-                        </p>
-                        <p><img src="https://img.icons8.com/material-sharp/20/000000/language.png"> Russe - Courant.</p>
-                    </div>
+                    <p><img src="https://img.icons8.com/material-sharp/20/000000/language.png"> Français - Courant.
+                    </p>
+                    <p><img src="https://img.icons8.com/material-sharp/20/000000/language.png"> Anglais -
+                        Intermédiaire.
+                    </p>
+                    <p><img src="https://img.icons8.com/material-sharp/20/000000/language.png"> Russe - Courant.</p>
+                </div>
 
 
                 <div class="mb90 clearfix"></div>
 
+            </div>
         </div>
-    </div>
     </div>
 </section>
 

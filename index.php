@@ -1,4 +1,3 @@
-
 <?php
 include "header.php";
 ?>
@@ -10,7 +9,6 @@ include('footer.php');
 ?>
 
 
-
 </div>
 
 <section class="white-wrapper special-max-width allow-overflow">
@@ -18,7 +16,8 @@ include('footer.php');
         <div class="container">
             <div class="row">
                 <div class="col-sm-7 col-sm-offset-3">
-                    <div id="typedtext" class="index-text" style="font-family: 'Source Code Pro'; color: white; font-size: 1.5em; margin-top: 2em; margin-bottom: 2em; margin-left: 0.5em; margin-right: 0.5em;  "></div>
+                    <div id="typedtext" class="index-text"
+                         style="font-family: 'Source Code Pro'; color: white; font-size: 1.5em; margin-top: 2em; margin-bottom: 2em; margin-left: 0.5em; margin-right: 0.5em;  "></div>
                 </div>
             </div>
         </div>

@@ -9,7 +9,7 @@ include "menu.php";
     <div class="fullheight">
         <div class="container fullheight">
             <div class="jumbotron text-center">
-                    <h2>Projet en cours ...</h2>
+                <h2>Projet en cours ...</h2>
             </div>
         </div>
     </div>

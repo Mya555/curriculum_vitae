@@ -1,6 +1,7 @@
 <nav class="pushy pushy-right">
     <ul class="list-unstyled">
-        <li><a class="logo" href="index.php"><img alt="" class="logo img-responsive" src="assets/images/logo.png"></a></li>
+        <li><a class="logo" href="index.php"><img alt="" class="logo img-responsive" src="assets/images/logo.png"></a>
+        </li>
         <li class="nav-item nav-link pushy-submenu">
             <a href="index.php">Accueil</a>
         </li>
@@ -13,12 +14,11 @@
         <li class="pushy-submenu">
             <a href="contact-us.php">Contact</a>
         </li>
-        <li><a class="cv" href="assets/images/cv_2018.pdf" download="cv.pdf"><img alt="" class="logo img-responsive" src="assets/images/cv-pdf.png"></a>
+        <li><a class="cv" href="assets/images/cv_2018.pdf" download="cv.pdf"><img alt="" class="logo img-responsive"
+                                                                                  src="assets/images/cv-pdf.png"></a>
         </li>
     </ul>
 </nav>
-
-
 
 
 <!-- Site Overlay -->
