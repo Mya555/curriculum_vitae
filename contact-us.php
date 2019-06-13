@@ -62,9 +62,9 @@ include "menu.php";
                     if (isset( $_POST['message'] )) {
 
                         $message = '<h1>Message envoyé depuis Devs-project</h1>
-    <p><b>Nom : </b>' . $_POST['name'] . '<br>
-    <b>Email : </b>' . $_POST['email'] . '<br>
-    <b>Message : </b>' . $_POST['message'] . '</p>';
+    Nom : ' . $_POST['name'] . '
+    Email : ' . $_POST['email'] . '
+    Message : ' . $_POST['message'] ;
 
                         $retour = mail( 'contact@devs-project.fr', 'Message envoyé via le cv en ligne', $message );
                         if ($retour) {
