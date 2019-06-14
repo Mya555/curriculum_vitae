@@ -1,8 +1,10 @@
 // set up text to print, each item in array is new line
 var aText = new Array(
-    "Donut chupa chups I love liquorice ice cream. Marshmallow jujubes chupa chups brownie.",
-    "Bonbon chocolate bar I love. Marzipan I love candy gingerbread sesame snaps marshmallow toffee.",
-    "Sesame snaps donut bear claw powder ♥♥♥"
+    "Développeuse d'applications web Php/Symfony, ",
+    "débutante et motivée, je suis rigoureuse et méthodique ",
+    "avec une grande capacité d'adaptation. ",
+    " Vous trouverez dans le menu mes projets  ainsi que mon parcours.",
+    "À de suite :)"
 );
 var iSpeed = 100; // time delay of print out
 var iIndex = 0; // start printing array at this posision
